@@ -1,1 +1,1 @@
-web: apt install docker-compose && docker-compose up -d
+tutorial: https://pasteio.com/raw/xrMYHXEVx0Sk
